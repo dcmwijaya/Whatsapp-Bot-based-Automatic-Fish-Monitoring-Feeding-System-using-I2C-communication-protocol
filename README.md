@@ -12,7 +12,7 @@ Coming Soon...
 ## Project Requirements
 | Part | Description |
 | --- | --- |
-| Development Board | • Arduino Nano<br>• ESP-01 |
+| Development Board | • Arduino Nano V3<br>• ESP-01 |
 | Code Editor | Visual Studio Code |
 | Extensions | PlatformIO IDE |
 | Programmer Tools | CH340-ESP01 USB |
