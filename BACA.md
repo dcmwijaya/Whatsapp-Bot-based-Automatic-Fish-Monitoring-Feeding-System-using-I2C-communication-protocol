@@ -25,7 +25,7 @@ Segera Hadir...
 | Pustaka Arduino | • Wire (default)<br>• ThingESP<br>• Servo<br>• RTClib |
 | Aktuator | Servo Motor SG90 180° (x1) |
 | Sensor | RTC (x1) |
-| Komponen Lainnya | • Kabel Mini USB - USB tipe A (x1)<br>• Kabel jumper (1 set)<br>• Casing servo pakan ikan (x1)<br>• Botol pakan ikan (x1) |
+| Komponen Lainnya | • Kabel Mini USB - USB tipe A (x1)<br>• Kabel jumper (1 set)<br>• Casing servo pakan ikan (x1)<br>• Botol pakan ikan (x1)<br>• Pakan ikan (1 set) |
 
 <br><br>
 
