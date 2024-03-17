@@ -134,11 +134,11 @@ Coming Soon...
    
 2. ``` Operating Mode ``` :
    
-   • Disconnect the ``` CH340-ESP01 USB ``` from the computer/laptop.
-
-   • Do the wiring as shown in the pictorial diagram.
+   • Release the ``` CH340-ESP01 USB ``` from the computer/laptop.
    
-   • The program code that has been embedded in this ``` ESP-01 board ``` is ready for operation (no more programming activities).<br><br><br>
+   • The program code that has been embedded in this ``` ESP-01 board ``` is ready for operation (no more programming activities).
+   
+   • Release the ``` ESP01 ``` from the ``` CH340-ESP01 USB ```. Do the wiring as shown in the pictorial diagram.<br><br><br>
 
 <strong>Notes :</strong>
 
