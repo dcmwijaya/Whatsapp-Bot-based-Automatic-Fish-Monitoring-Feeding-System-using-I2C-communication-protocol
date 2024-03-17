@@ -22,7 +22,7 @@ Segera Hadir...
 | Protokol Komunikasi | • Inter Integrated Circuit (I2C)<br>• Hypertext Transfer Protocol (HTTP) |
 | Arsitektur IoT | 3 Lapisan |
 | Bahasa Pemrograman | C/C++ |
-| Pustaka Arduino | • Wire (default)<br>• ThingESP<br>• Servo |
+| Pustaka Arduino | • Wire (default)<br>• ThingESP<br>• Servo<br>• RTClib |
 | Aktuator | Servo Motor SG90 180° (x1) |
 | Sensor | RTC (x1) |
 | Komponen Lainnya | • Kabel Mini USB - USB tipe A (x1)<br>• Kabel jumper (1 set)<br>• Casing Servo Pakan Ikan (x1) |
