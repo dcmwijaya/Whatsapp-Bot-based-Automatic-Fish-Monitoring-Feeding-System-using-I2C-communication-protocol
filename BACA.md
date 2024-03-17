@@ -87,6 +87,33 @@ Internet of Things (IoT) adalah sebuah konsep dimana suatu hal yang terhubung ke
 
 <br><br>
 
+## Kalibrasi Sensor RTC
+Sensor RTC ini dapat di kalibrasi dengan menggunakan kode program berikut :
+
+```ino
+#include <RTClib.h> // Calling the RTC library
+RTC_DS3231 rtc; // Constructor
+
+void setup(){
+   RTCinit(); // Calling the RTCinit method
+}
+
+void loop(){}
+
+void RTCinit(){
+   // Starting up the RTC
+   rtc.begin();
+
+   // DateTime Setting
+   rtc.adjust(DateTime(F(__DATE__), F(__TIME__)));
+
+   // Set Time Now
+   rtc.adjust(DateTime(YYYY,MM,DD,HH,MM,SS)); // If you have calibrated please close with a comment
+}
+```
+
+<br><br>
+
 ## Pengaturan Visual Studio Code
 Coming Soon...
 
