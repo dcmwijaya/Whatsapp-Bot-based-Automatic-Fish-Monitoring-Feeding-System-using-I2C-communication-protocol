@@ -87,6 +87,33 @@ Internet of Things (IoT) is a concept where things connected to a network can pe
 
 <br><br>
 
+## RTC Sensor Calibration
+This RTC sensor can be calibrated using the following program code :
+
+```ino
+#include <RTClib.h> // Calling the RTC library
+RTC_DS3231 rtc; // Constructor
+
+void setup(){
+   RTCinit(); // Calling the RTCinit method
+}
+
+void loop(){}
+
+void RTCinit(){
+   // Starting up the RTC
+   rtc.begin();
+
+   // DateTime Setting
+   rtc.adjust(DateTime(F(__DATE__), F(__TIME__)));
+
+   // Set Time Now
+   rtc.adjust(DateTime(YYYY,MM,DD,HH,MM,SS)); // If you have calibrated please close with a comment
+}
+```
+
+<br><br>
+
 ## Visual Studio Code Setup
 Coming Soon...
 
