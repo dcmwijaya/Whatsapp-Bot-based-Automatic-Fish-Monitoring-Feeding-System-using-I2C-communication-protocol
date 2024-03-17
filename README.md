@@ -22,7 +22,7 @@ Coming Soon...
 | Communications Protocol | • Inter Integrated Circuit (I2C)<br>• Hypertext Transfer Protocol (HTTP) |
 | IoT Architecture | 3 Layer |
 | Programming Language | C/C++ |
-| Arduino Library | • Wire (default)<br>• ThingESP<br>• Servo |
+| Arduino Library | • Wire (default)<br>• ThingESP<br>• Servo<br>• RTClib |
 | Actuators | Servo Motor SG90 180° (x1) |
 | Sensor | RTC (x1) |
 | Other Components | • Mini USB cable - USB type A (x1)<br>• Jumper cable (1 set)<br>• Fish Feed Servo Casing (x1) |
