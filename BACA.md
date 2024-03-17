@@ -136,9 +136,9 @@ Coming Soon...
    
    • Lepaskan ``` USB CH340-ESP01 ``` dari komputer/laptop.
    
-   • Lakukan pemasangan kabel seperti yang ditunjukkan dalam diagram ilustrasi.
-   
-   • Kode program yang telah tertanam dalam ``` board ESP-01 ``` ini siap untuk dioperasikan (sudah tidak ada aktivitas pemrograman lagi).<br><br><br>
+   • Kode program yang telah tertanam dalam ``` board ESP-01 ``` ini siap untuk dioperasikan (sudah tidak ada aktivitas pemrograman lagi).
+
+   • Lepaskan ``` ESP01 ``` dari ``` USB CH340-ESP01 ```. Lakukan pemasangan kabel seperti yang ditunjukkan dalam diagram ilustrasi.<br><br><br>
 
 <strong>Catatan :</strong>
 
