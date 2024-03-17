@@ -25,7 +25,7 @@ Coming Soon...
 | Arduino Library | • Wire (default)<br>• ThingESP<br>• Servo<br>• RTClib |
 | Actuators | Servo Motor SG90 180° (x1) |
 | Sensor | RTC (x1) |
-| Other Components | • Mini USB cable - USB type A (x1)<br>• Jumper cable (1 set)<br>• Fish Feed Servo Casing (x1) |
+| Other Components | • Mini USB cable - USB type A (x1)<br>• Jumper cable (1 set)<br>• Fish feed servo casing (x1)<br>• Fish feed bottle (x1)<br>• Fish feed (1 set) |
 
 <br><br>
 
