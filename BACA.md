@@ -20,7 +20,7 @@ Segera Hadir...
 | Dukungan Aplikasi | Bot Whatsapp |
 | Platform IoT | • Twilio<br>• ThingESP |
 | Protokol Komunikasi | • Inter Integrated Circuit (I2C)<br>• Hypertext Transfer Protocol (HTTP) |
-| Arsitektur IoT | 3 Lapisan |
+| Arsitektur IoT | 4 Lapisan |
 | Bahasa Pemrograman | C/C++ |
 | Pustaka Arduino | • Wire (default)<br>• ThingESP<br>• Servo<br>• RTClib |
 | Aktuator | Servo Motor SG90 180° (x1) |
