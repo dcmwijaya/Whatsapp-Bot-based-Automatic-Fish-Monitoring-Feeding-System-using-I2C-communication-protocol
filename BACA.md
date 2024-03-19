@@ -59,8 +59,8 @@ Segera Hadir...
 <th width="420">Infrastruktur</th>
 </tr>
 <tr>
-<td><img src="https://github.com/devancakra/Whatsapp-Bot-based-Automatic-Fish-Monitoring-Feeding-System-using-I2C-communication-protocol/assets/54527592/6e558719-b563-402a-8ead-d72d636af1b3" alt="Block-Diagram"></td>
-<td><img src="https://github.com/devancakra/Whatsapp-Bot-based-Automatic-Fish-Monitoring-Feeding-System-using-I2C-communication-protocol/assets/54527592/1d3f66b3-1b46-4ea5-9dba-5d2b6979322a" alt="Infrastructure"></td>
+<td><img src="https://github.com/devancakra/Whatsapp-Bot-based-Automatic-Fish-Monitoring-Feeding-System-using-I2C-communication-protocol/assets/54527592/d6884acf-15ce-4ef3-b1f2-4b064147806d" alt="Block-Diagram"></td>
+<td><img src="https://github.com/devancakra/Whatsapp-Bot-based-Automatic-Fish-Monitoring-Feeding-System-using-I2C-communication-protocol/assets/54527592/3fae99c8-3bdc-48b9-8a3f-f3ce9aea424e" alt="Infrastructure"></td>
 </tr>
 </table>
 <table>
