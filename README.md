@@ -150,9 +150,46 @@ Coming Soon...
 
 </td></tr></table><br><br>
 
-## Whatsapp Bot Setup
-Coming Soon...
+## Twilio Setup
+1. Getting started with Twilio :
+   
+   <table><tr><td width="810">
+      
+   • Go to the following url: <a href="https://www.twilio.com/">Click Here</a>.
 
+   • Click ``` Log in ``` to access the service.
+
+   • if you do not have an account, then click ``` Sign up ```.
+
+   </td></tr></table><br>
+
+2. Fill in all the required fields.<br><br>
+
+3. Verify your ``` phone number ``` and ``` email ```.<br><br>
+
+4. Access the ``` WhatsApp sandbox ``` in the ``` Settings ``` menu and ``` send the code ``` to the ``` provided WhatsApp number ```.
+   
+<br><br>
+
+## ThingESP Setup
+1. Getting started with ThingESP :
+   
+   <table><tr><td width="810">
+
+   • Go to the following url: <a href="https://thingesp.siddhesh.me/#/">Click Here</a>.
+
+   • Click ``` Login ``` to access the service.
+
+   • if you do not have an account, then click ``` Create Account ```.
+
+   </td></tr></table><br>
+
+2. Fill in all required fields.<br><br>
+
+3. Click ``` Project ``` in the sidebar -> then select ``` Add New Project ```.<br><br>
+
+4. After the project has been created, enter the ``` Twilio WhatsApp Endpoint URL ``` into ``` ThingESP ``` to connect.
+   
 <br><br>
 
 ## Get Started
