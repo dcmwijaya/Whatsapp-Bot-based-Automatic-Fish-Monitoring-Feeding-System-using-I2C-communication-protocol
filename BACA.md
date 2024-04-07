@@ -16,7 +16,7 @@ Segera Hadir...
 | Editor Kode | Visual Studio Code |
 | Ekstensi | PlatformIO IDE |
 | Alat Pemrogram | USB CH340-ESP01 |
-| Driver | USB-Serial CH340 |
+| Driver | CH340 USB Driver |
 | Dukungan Aplikasi | Bot Whatsapp |
 | Platform IoT | • Twilio<br>• ThingESP |
 | Protokol Komunikasi | • Inter Integrated Circuit (I2C)<br>• Hypertext Transfer Protocol (HTTP) |
@@ -35,17 +35,17 @@ Segera Hadir...
    <table><tr><td width="810">
          
    ```
-   https://code.visualstudio.com/docs/?dv=win
+   https://bit.ly/VScode_Installer
    ```
 
    </td></tr></table><br>
    
-2. USB-Serial CH340
+2. CH340 USB Driver
 
    <table><tr><td width="810">
    
    ```
-   https://bit.ly/CH340_Driver
+   https://bit.ly/CH340_USB_Driver
    ```
    
    </td></tr></table>
