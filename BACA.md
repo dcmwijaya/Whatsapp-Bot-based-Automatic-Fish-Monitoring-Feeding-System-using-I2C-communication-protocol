@@ -4,7 +4,6 @@
 ![Type](https://img.shields.io/badge/Type-Personal%20Experiment-light.svg?style=flat&logo=gitbook&logoColor=white&color=%23F7DF1E)
 
 # Whatsapp-Bot-based-Automatic-Fish-Monitoring-Feeding-System-using-I2C-communication-protocol
-<strong>Proyek Tunggal: Sistem Pemberian Pakan Ikan Otomatis Berbasis Bot Whatsapp menggunakan protokol komunikasi I2C</strong><br><br>
 Segera Hadir...
 
 <br><br>
