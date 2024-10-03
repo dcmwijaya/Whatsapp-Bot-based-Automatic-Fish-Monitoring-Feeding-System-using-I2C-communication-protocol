@@ -1,7 +1,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?style=flat)](https://github.com/ellerbrock/open-source-badges/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?logo=github&color=%23F7DF1E)](https://opensource.org/licenses/MIT)
-![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/Whatsapp-Bot-based-Automatic-Fish-Monitoring-Feeding-System-using-I2C-communication-protocol)
-![Project](https://img.shields.io/badge/Project-Internet%20of%20Things-light.svg?style=flat&logo=arduino&logoColor=white&color=%23F7DF1E)
+![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/Whatsapp-Bot-based-Automatic-Fish-Monitoring-Feeding-System-using-I2C-communication-protocol?logo=Codeforces&logoColor=white&color=%23F7DF1E)
+![Type](https://img.shields.io/badge/Type-Personal%20Experiment-light.svg?style=flat&logo=gitbook&logoColor=white&color=%23F7DF1E)
 
 # Whatsapp-Bot-based-Automatic-Fish-Monitoring-Feeding-System-using-I2C-communication-protocol
 <strong>Solo Project: Whatsapp Bot-based Automatic Fish Monitoring & Feeding System using I2C communication protocol</strong><br><br>
@@ -59,8 +59,8 @@ Coming Soon...
 <th width="420">Infrastructure</th>
 </tr>
 <tr>
-<td><img src="https://github.com/devancakra/Whatsapp-Bot-based-Automatic-Fish-Monitoring-Feeding-System-using-I2C-communication-protocol/assets/54527592/d6884acf-15ce-4ef3-b1f2-4b064147806d" alt="Block-Diagram"></td>
-<td><img src="https://github.com/devancakra/Whatsapp-Bot-based-Automatic-Fish-Monitoring-Feeding-System-using-I2C-communication-protocol/assets/54527592/3fae99c8-3bdc-48b9-8a3f-f3ce9aea424e" alt="Infrastructure"></td>
+<td><img src="Assets/Documentation/Diagram/Block Diagram.jpg" alt="block-diagram"></td>
+<td><img src="Assets/Documentation/Diagram/Infrastructure.jpg" alt="infrastructure"></td>
 </tr>
 </table>
 <table>
@@ -69,8 +69,8 @@ Coming Soon...
 <th width="420">Wiring</th>
 </tr>
 <tr>
-<td><img src="" alt="Pictorial-Diagram"></td>
-<td><img src="" alt="Wiring"></td>
+<td><img src="Assets/Documentation/Diagram/Pictorial Diagram.jpg" alt="pictorial-diagram"></td>
+<td><img src="Assets/Documentation/Table/Device Wiring.jpg" alt="wiring"></td>
 </tr>
 </table>
 
@@ -120,7 +120,7 @@ Coming Soon...
 <br><br>
 
 ## CH340-ESP01 USB Setup
-<img width="840" src="https://github.com/devancakra/Whatsapp-Bot-based-Automatic-Fish-Monitoring-Feeding-System-using-I2C-communication-protocol/assets/54527592/a09121f7-c560-417f-890f-b683f8cf9540" alt="pinout"><br><br><br>
+<img width="840" src="Assets/Documentation/Pinout/CH340-ESP01.jpg" alt="pinout"><br><br><br>
 
 1. ``` Programming Mode ``` :
       
@@ -213,10 +213,10 @@ Via Whatsapp: <a href="">AutoFish Bot</a>
 ## Highlights
 <table>
 <tr>
-<th width="840">Hardware</th>
+<th width="840">Device</th>
 </tr>
 <tr>
-<td><img src="" alt="hardware"></td>
+<td><img src="Assets/Documentation/Experiment/Device.txt" alt="device"></td>
 </tr>
 </table>
 <table>
@@ -224,15 +224,15 @@ Via Whatsapp: <a href="">AutoFish Bot</a>
 <th width="840" colspan="2">Whatsapp Bot</th>
 </tr>
 <tr>
-<td width="420"><img src="" alt="wa_bot1"></td>
-<td width="420"><img src="" alt="wa_bot2"></td>
+<td width="420"><img src="Assets/Documentation/Experiment/Device.txt" alt="wa-bot1"></td>
+<td width="420"><img src="Assets/Documentation/Experiment/Device.txt" alt="wa-bot2"></td>
 </tr>
 </table>
 
 <br><br>
 
 ## Component Testing
-You can download the component test file via the following link: <a href="">Click Here</a>
+You can download the component test file via the following link: <a href="Assets/Component Testing/Testing.txt">Click Here</a>
 
 <br><br>
 
@@ -242,7 +242,7 @@ If this work is useful to you, then support this work as a form of appreciation 
 <br><br>
 
 ## Disclaimer
-This application has been created by including third-party sources. Third parties here are service providers, whose services are in the form of libraries, frameworks, and others. I thank you very much for the service. It has proven to be very helpful and implementable.
+This application is my own work and is not the result of plagiarism from other people's research or work, except those related to third party services which include: libraries, frameworks, and so on.
 
 <br><br>
 
