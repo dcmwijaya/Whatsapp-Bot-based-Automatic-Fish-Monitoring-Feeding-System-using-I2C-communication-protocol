@@ -216,7 +216,7 @@ Via Whatsapp: <a href="https://github.com/devancakra/Whatsapp-Bot-based-Automati
 <th width="840">Perangkat</th>
 </tr>
 <tr>
-<td><img src="Assets/Documentation/Experiment/Device.txt" alt="device"></td>
+<td><img src="Assets/Documentation/Experiment/Device.jpg" alt="device"></td>
 </tr>
 </table>
 <table>
@@ -224,8 +224,8 @@ Via Whatsapp: <a href="https://github.com/devancakra/Whatsapp-Bot-based-Automati
 <th width="840" colspan="2">Bot Whatsapp</th>
 </tr>
 <tr>
-<td width="420"><img src="Assets/Documentation/Experiment/Device.txt" alt="wa-bot1"></td>
-<td width="420"><img src="Assets/Documentation/Experiment/Device.txt" alt="wa-bot2"></td>
+<td width="420"><img src="Assets/Documentation/Experiment/Device.jpg" alt="wa-bot1"></td>
+<td width="420"><img src="Assets/Documentation/Experiment/Device.jpg" alt="wa-bot2"></td>
 </tr>
 </table>
 
